@@ -1,5 +1,4 @@
-/*File Name: HW2_Dhekne_Anagha
-Name: Anagha Dhekne*/
+
 #include <iostream>
 #include <vector>
 #include <thread>
